@@ -1,2 +1,6 @@
-# html-and-CSS-in-depth
-A repository containing hands-on practical exercises and assignments for final project on mastering Git and GitHub version control. 
+https://jonathanschimpf.github.io/html-and-css-indepth-project/
+
+html-and-css-indepth-project
+
+// a good refresher on meta viewport tags within the head and on flexbox within the body. HTML/CSS //
+ 
